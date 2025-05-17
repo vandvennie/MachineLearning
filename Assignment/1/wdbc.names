@@ -7,11 +7,11 @@ a) Creators:
 	Dr. William H. Wolberg, General Surgery Dept., University of
 	Wisconsin,  Clinical Sciences Center, Madison, WI 53792
 	wolberg@eagle.surgery.wisc.edu
-
+	
 	W. Nick Street, Computer Sciences Dept., University of
 	Wisconsin, 1210 West Dayton St., Madison, WI 53706
 	street@cs.wisc.edu  608-262-6619
-
+	
 	Olvi L. Mangasarian, Computer Sciences Dept., University of
 	Wisconsin, 1210 West Dayton St., Madison, WI 53706
 	olvi@cs.wisc.edu 
@@ -41,18 +41,18 @@ Medical literature:
 	Machine learning techniques to diagnose breast cancer from
 	fine-needle aspirates.  
 	Cancer Letters 77 (1994) 163-171.
-
+	
 	W.H. Wolberg, W.N. Street, and O.L. Mangasarian. 
 	Image analysis and machine learning applied to breast cancer
 	diagnosis and prognosis.  
 	Analytical and Quantitative Cytology and Histology, Vol. 17
 	No. 2, pages 77-87, April 1995. 
-
+	
 	W.H. Wolberg, W.N. Street, D.M. Heisey, and O.L. Mangasarian. 
 	Computerized breast cancer diagnosis and prognosis from fine
 	needle aspirates.  
 	Archives of Surgery 1995;130:511-516.
-
+	
 	W.H. Wolberg, W.N. Street, D.M. Heisey, and O.L. Mangasarian. 
 	Computer-derived nuclear features distinguish malignant from
 	benign breast cytology.  
@@ -98,7 +98,7 @@ Results:
 
 
 	This database is also available through the UW CS ftp server:
-
+	
 	ftp ftp.cs.wisc.edu
 	cd math-prog/cpo-dataset/machine-learn/WDBC/
 
